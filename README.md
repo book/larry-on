@@ -53,7 +53,7 @@ During the IRC conversation, I spent frantic 40 minutes
 the [KeepCalm font](https://fontmeme.com/keep-calm/),
 a [picture of Larry with his outback hat](https://opensource.com/sites/default/files/images/life-uploads/image_larry_wall.jpg)
 (obtained from [this article](https://opensource.com/article/17/10/perl-turns-30)),
-and [ChatGPT](https://chatgpt.com/).
+[Inkscape](https://inkscape.org/), and [ChatGPT](https://chatgpt.com/).
 
 I first used the scan of the original poster (read all about it on
 [Wikipedia](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On)) to
