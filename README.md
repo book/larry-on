@@ -2,8 +2,10 @@
 
 ![KEEP CALM AND LARRY ON](keep_calm_and_larry_on.png)
 
-I designed this for the [London Perl & Raku Workshop 2026](http://act.yapc.eu/lpw2026/).
-I hope they'll like it enough to produce it!
+This was designed late at night from a joke on a chat, and then I
+realized it was the perfect design for the [London Perl & Raku Workshop
+2026](http://act.yapc.eu/lpw2026/). I hope they'll like it enough to
+make a T-shirt out of it!
 
 ## The original discussion and inspiration
 
