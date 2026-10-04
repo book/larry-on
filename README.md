@@ -62,10 +62,10 @@ the ones from the font. I positioned every letter individually, going
 back and forth with the scan to make sure they were correctly positioned.
 (Don't tell me I'm a perfectionist, I know too well!)
 
-Then after figuring out a mustache wouldn't look great in place of the crown
-(and a hat would keep it closer to the original), I enlisted ChatGPT to 
-produce a version of Larry's outback hat in the same style as the
-crown on the original posted. 
+Then after figuring out that a mustache wouldn't look great in place of
+the crown (and a hat would keep it closer to the original), I enlisted
+ChatGPT to produce a version of Larry's outback hat in the same style
+as the crown on the original posted.
 
 (I kept a copy of the AI session).
 
