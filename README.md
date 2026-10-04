@@ -7,10 +7,10 @@ I hope they'll like it enough to produce it!
 
 ## The original discussion and inspiration
 
-On 2026-08-19 (Europe/Paris time):
+On 2026-08-19 (Europe/Paris time), on the `#p5p` IRC channel
+(hosted on the [irc.perl.org](http://www.irc.perl.org/) network):
 
 ```
-#p5p (irc.perl.org)
 01:30 <@ether> is rleach on irc? I cannot remember his handle
 01:30 <@ether> if he is -- commit b54e6f55f4 is awesome and I think worthy of a delta entry
 01:31 <@ether> ah yes, hydahy!  ^^
