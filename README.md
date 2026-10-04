@@ -75,8 +75,8 @@ with his hat, and they annoyed me.
 
 # Get the final SVG
 
-* [keep_calm_and_larry_on-work.svg](keep_calm_and_larry_on-work.svg)
-  (working document: needs the KeepCalm font installed, embeds the original scan)
 * [keep_calm_and_larry_on.svg](keep_calm_and_larry_on.svg)
   (all letters are paths, no font needed)
+* [keep_calm_and_larry_on-work.svg](keep_calm_and_larry_on-work.svg)
+  (working document: needs the KeepCalm font installed, embeds the original scan)
 
