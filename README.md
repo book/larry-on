@@ -80,3 +80,8 @@ with his hat, and they annoyed me.
 * [keep_calm_and_larry_on-work.svg](keep_calm_and_larry_on-work.svg)
   (working document: needs the KeepCalm font installed, embeds the original scan)
 
+# License
+
+This T-shirt design is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
