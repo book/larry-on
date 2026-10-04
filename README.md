@@ -48,7 +48,7 @@ This wasn't good enough for me, obviously.
 ## Polishing the design
 
 During the IRC conversation, I spent frantic 40 minutes
-(between 1:50 and 2:36 my time), with the 
+(between 1:50 and 2:36 my time), with the
 [original scan picture from Wikipedia](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On#/media/File:Keep-calm-and-carry-on-scan.jpg),
 the [KeepCalm font](https://fontmeme.com/keep-calm/),
 a [picture of Larry with his outback hat](https://opensource.com/sites/default/files/images/life-uploads/image_larry_wall.jpg)
@@ -65,7 +65,7 @@ back and forth with the scan to make sure they were correctly positioned.
 Then after figuring out that a mustache wouldn't look great in place of
 the crown (and a hat would keep it closer to the original), I enlisted
 ChatGPT to produce a version of Larry's outback hat in the same style
-as the crown on the original posted.
+as the crown on the original poster.
 
 (I kept a copy of the AI session).
 
