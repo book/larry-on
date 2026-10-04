@@ -37,7 +37,9 @@ On 2026-08-19 (Europe/Paris time), on the `#p5p` IRC channel
 
 ## The first draft
 
-Generated with <https://fontmeme.com/keep-calm/>.
+The first draft was generated with <https://fontmeme.com/keep-calm/>.
+
+In case the link in the above conversation goes dead, here's what it looked like:
 
 ![First attempt with a meme generator](KEEP_CALM_AND_LARRY_ON-meme.png)
 
